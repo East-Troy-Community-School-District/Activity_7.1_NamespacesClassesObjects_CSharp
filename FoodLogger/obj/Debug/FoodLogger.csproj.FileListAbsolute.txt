@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\FoodLogger\bin\Debug\FoodLogger.exe.config
+C:\Users\Nolan Pawelski\Desktop\FoodLogger\bin\Debug\FoodLogger.exe
+C:\Users\Nolan Pawelski\Desktop\FoodLogger\bin\Debug\FoodLogger.pdb
+C:\Users\Nolan Pawelski\Desktop\FoodLogger\obj\Debug\FoodLogger.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\FoodLogger\obj\Debug\FoodLogger.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\FoodLogger\obj\Debug\FoodLogger.exe
+C:\Users\Nolan Pawelski\Desktop\FoodLogger\obj\Debug\FoodLogger.pdb

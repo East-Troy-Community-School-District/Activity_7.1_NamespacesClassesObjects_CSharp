@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\CardClass\bin\Debug\CardClass.exe.config
+C:\Users\Nolan Pawelski\Desktop\CardClass\bin\Debug\CardClass.exe
+C:\Users\Nolan Pawelski\Desktop\CardClass\bin\Debug\CardClass.pdb
+C:\Users\Nolan Pawelski\Desktop\CardClass\obj\Debug\CardClass.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\CardClass\obj\Debug\CardClass.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\CardClass\obj\Debug\CardClass.exe
+C:\Users\Nolan Pawelski\Desktop\CardClass\obj\Debug\CardClass.pdb

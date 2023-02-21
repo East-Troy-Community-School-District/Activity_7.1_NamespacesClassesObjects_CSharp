@@ -1,0 +1,10 @@
+C:\Users\Nolan Pawelski\Desktop\ClickMe\bin\Debug\ClickMe.exe.config
+C:\Users\Nolan Pawelski\Desktop\ClickMe\bin\Debug\ClickMe.exe
+C:\Users\Nolan Pawelski\Desktop\ClickMe\bin\Debug\ClickMe.pdb
+C:\Users\Nolan Pawelski\Desktop\ClickMe\obj\Debug\ClickMe.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\ClickMe\obj\Debug\ClickMe.ClickMeForm.resources
+C:\Users\Nolan Pawelski\Desktop\ClickMe\obj\Debug\ClickMe.Properties.Resources.resources
+C:\Users\Nolan Pawelski\Desktop\ClickMe\obj\Debug\ClickMe.csproj.GenerateResource.cache
+C:\Users\Nolan Pawelski\Desktop\ClickMe\obj\Debug\ClickMe.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\ClickMe\obj\Debug\ClickMe.exe
+C:\Users\Nolan Pawelski\Desktop\ClickMe\obj\Debug\ClickMe.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\MakingObjects\bin\Debug\MakingObjects.exe.config
+C:\Users\Nolan Pawelski\Desktop\MakingObjects\bin\Debug\MakingObjects.exe
+C:\Users\Nolan Pawelski\Desktop\MakingObjects\bin\Debug\MakingObjects.pdb
+C:\Users\Nolan Pawelski\Desktop\MakingObjects\obj\Debug\MakingObjects.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\MakingObjects\obj\Debug\MakingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\MakingObjects\obj\Debug\MakingObjects.exe
+C:\Users\Nolan Pawelski\Desktop\MakingObjects\obj\Debug\MakingObjects.pdb

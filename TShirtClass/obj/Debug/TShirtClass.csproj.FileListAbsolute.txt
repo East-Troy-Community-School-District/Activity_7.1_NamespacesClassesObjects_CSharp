@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\TShirtClass\bin\Debug\TShirtClass.exe.config
+C:\Users\Nolan Pawelski\Desktop\TShirtClass\bin\Debug\TShirtClass.exe
+C:\Users\Nolan Pawelski\Desktop\TShirtClass\bin\Debug\TShirtClass.pdb
+C:\Users\Nolan Pawelski\Desktop\TShirtClass\obj\Debug\TShirtClass.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\TShirtClass\obj\Debug\TShirtClass.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\TShirtClass\obj\Debug\TShirtClass.exe
+C:\Users\Nolan Pawelski\Desktop\TShirtClass\obj\Debug\TShirtClass.pdb
